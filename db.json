@@ -1,9 +1,51 @@
+[
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+"id": 1,
+"name": "John Doe",
+"username": "john.doe",
+"password": "johndoe123",
+"role": "user"
+},
+{
+"id": 2,
+"name": "Jack Smith",
+"username": "jack.smith",
+"password": "jacksmith123",
+"role": "user"
+},
+{
+"id": 3,
+"name": "Sofia Jones",
+"username": "sofia.jones",
+"password": "sofiajones123",
+"role": "user"
+},
+{
+"id": 4,
+"name": "Tim Admin",
+"username": "tim.admin",
+"password": "timadmin123",
+"role": "admin"
+},
+{
+"name": "Josh Case",
+"username": "jcase",
+"password": "joshcase123",
+"role": "user",
+"id": 5
+},
+{
+"name": "Debra Watts",
+"username": "dwatts",
+"password": "dwatts123",
+"role": "user",
+"id": 6
+},
+{
+"name": "Jamie Bradley",
+"username": "jbradley",
+"password": "jbradley123",
+"role": "user",
+"id": 7
 }
+]
